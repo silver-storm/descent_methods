@@ -1,2 +1,2 @@
-# descent_methods
-Compared and analysed recent developments in descent methods for convex functions.
+# EXPLORING RECENT DEVELOPMENTS IN GRADIENT DESCENT METHODS
+
